@@ -1,0 +1,74 @@
+[
+  {
+    "id": "doc_01",
+    "title": "Chính sách Đổi mật khẩu Tài khoản",
+    "text": "Để đảm bảo an toàn thông tin, nhân viên phải đổi mật khẩu tài khoản hệ thống định kỳ mỗi 90 ngày. Mật khẩu mới phải có độ dài tối thiểu 12 ký tự, bao gồm ít nhất một chữ hoa, một chữ thường, một chữ số và một ký tự đặc biệt (ví dụ: @, #, $, !). Mật khẩu mới không được trùng với 5 mật khẩu gần nhất. Nếu quên mật khẩu, nhân viên cần liên hệ trực tiếp với bộ phận IT Helpdesk qua số nội bộ 1111 hoặc gửi email hỗ trợ từ hòm thư cá nhân đã đăng ký. Tài khoản sẽ bị khóa tạm thời sau 5 lần nhập sai liên tiếp.",
+    "metadata": {"category": "IT Support"}
+  },
+  {
+    "id": "doc_02",
+    "title": "Hướng dẫn Kết nối Mạng VPN Công ty",
+    "text": "Để truy cập vào hệ thống nội bộ khi làm việc từ xa, nhân viên bắt buộc phải sử dụng phần mềm FortiClient VPN. Địa chỉ máy chủ VPN là vpn.company.com. Nhân viên đăng nhập bằng tài khoản email công ty kết hợp với mã xác thực 2 lớp (MFA) được gửi qua ứng dụng Microsoft Authenticator. IT nghiêm cấm việc chia sẻ tài khoản VPN hoặc sử dụng mạng VPN công ty để truy cập các trang web giải trí cá nhân không an toàn. Mọi hành vi vi phạm sẽ bị ghi nhận và báo cáo lên bộ phận an ninh mạng.",
+    "metadata": {"category": "Network Security"}
+  },
+  {
+    "id": "doc_03",
+    "title": "Chính sách Nghỉ phép và Đăng ký Nghỉ",
+    "text": "Mỗi nhân viên chính thức có 12 ngày phép năm hưởng nguyên lương. Việc đăng ký nghỉ phép phải được thực hiện trên hệ thống HR portal (hr.company.com) và gửi yêu cầu phê duyệt đến Quản lý trực tiếp trước ít nhất 3 ngày làm việc đối với phép nghỉ từ 1 đến 2 ngày, và trước 7 ngày làm việc đối với phép nghỉ từ 3 ngày trở lên. Trong trường hợp khẩn cấp hoặc ốm đau, nhân viên phải thông báo qua điện thoại/tin nhắn cho Quản lý trước 9:00 sáng của ngày nghỉ và nộp đơn bổ sung kèm theo giấy xác nhận của cơ sở y tế trong vòng 24 giờ sau khi quay lại làm việc.",
+    "metadata": {"category": "HR Policy"}
+  },
+  {
+    "id": "doc_04",
+    "title": "Quy trình Thanh toán và Hoàn ứng Chi phí",
+    "text": "Mọi khoản chi tiêu phục vụ công việc cần được phê duyệt trước bởi Quản lý bộ phận. Yêu cầu thanh toán và hoàn ứng phải nộp qua hệ thống Finance portal kèm theo đầy đủ hóa đơn giá trị gia tăng (VAT) hợp lệ trong vòng 10 ngày làm việc kể từ ngày phát sinh chi phí. Hóa đơn VAT phải ghi đúng thông tin công ty: Công ty Cổ phần Công nghệ ABC, MST: 0102345678, Địa chỉ: Số 1 Đường Thành Công, Hà Nội. Các khoản chi không có hóa đơn hợp lệ hoặc nộp muộn quá 30 ngày sẽ không được hoàn trả.",
+    "metadata": {"category": "Finance"}
+  },
+  {
+    "id": "doc_05",
+    "title": "Hướng dẫn Đăng ký và Cấp phát Thiết bị",
+    "text": "Nhân viên mới khi thử việc sẽ được cấp phát 1 laptop (Dell hoặc Macbook tùy vị trí) kèm theo chuột và balo. Trường hợp cần nâng cấp thiết bị hoặc cấp thêm màn hình phụ, nhân viên cần tạo phiếu yêu cầu (ticket) trên hệ thống IT Service Desk kèm theo phê duyệt của Quản lý trực tiếp và Giám đốc bộ phận. Thiết bị hư hỏng do lỗi kỹ thuật sẽ được sửa chữa hoặc thay thế miễn phí. Trường hợp mất mát hoặc hư hỏng do bất cẩn cá nhân, nhân viên có thể phải bồi thường theo giá trị còn lại của thiết bị.",
+    "metadata": {"category": "IT Support"}
+  },
+  {
+    "id": "doc_06",
+    "title": "Nội quy Làm việc và Giờ giấc tại Văn phòng",
+    "text": "Thời gian làm việc tiêu chuẩn của công ty là từ thứ Hai đến thứ Sáu, từ 8:30 sáng đến 5:30 chiều, nghỉ trưa từ 12:00 trưa đến 1:00 chiều. Công ty áp dụng chính sách chấm công bằng nhận diện khuôn mặt tại cửa ra vào văn phòng. Nhân viên đi muộn quá 15 phút mà không có lý do chính đáng và không thông báo trước cho Quản lý trực tiếp sẽ bị tính là đi muộn. Tích lũy 3 lần đi muộn trong một tháng sẽ bị nhắc nhở bằng văn bản và ảnh hưởng đến đánh giá hiệu suất (KPI) cuối năm.",
+    "metadata": {"category": "HR Policy"}
+  },
+  {
+    "id": "doc_07",
+    "title": "Chính sách Bảo mật Thông tin và NDA",
+    "text": "Tất cả nhân viên bắt buộc phải ký Thỏa thuận Bảo mật Thông tin (NDA) trước khi bắt đầu làm việc. Nhân viên không được phép sao chép, truyền tải, hoặc tiết lộ bất kỳ thông tin mật nào của công ty, khách hàng hoặc đối tác ra bên ngoài hệ thống của công ty khi chưa được sự cho phép bằng văn bản của Ban Giám đốc. Dữ liệu mã nguồn, thông tin tài chính, danh sách khách hàng và chiến lược kinh doanh là tài sản bảo mật tuyệt đối. Việc vi phạm chính sách bảo mật sẽ dẫn đến kỷ luật sa thải lập tức và có thể bị truy cứu trách nhiệm hình sự.",
+    "metadata": {"category": "Legal & Compliance"}
+  },
+  {
+    "id": "doc_08",
+    "title": "Quy trình Báo cáo Sự cố An ninh Mạng",
+    "text": "Khi phát hiện các dấu hiệu nghi ngờ về an ninh thông tin như: nhận được email lừa đảo (phishing), máy tính chạy chậm bất thường hoặc xuất hiện thông báo đòi tiền chuộc (ransomware), tài khoản bị đăng nhập lạ, nhân viên phải lập tức ngắt kết nối mạng (rút dây mạng hoặc tắt Wi-Fi) và thông báo khẩn cấp cho đội ứng phó sự cố (SOC) qua hotline nội bộ 9999 hoặc gửi email về soc@company.com. Nhân viên tuyệt đối không tự ý xử lý sự cố hoặc nhấp vào các liên kết đáng ngờ trong email.",
+    "metadata": {"category": "Network Security"}
+  },
+  {
+    "id": "doc_09",
+    "title": "Chế độ Bảo hiểm Sức khỏe Đặc biệt (Company Care)",
+    "text": "Ngoài bảo hiểm y tế bắt buộc theo luật lao động, công ty cung cấp gói bảo hiểm sức khỏe tự nguyện Company Care (bảo hiểm PVI hoặc tương đương) cho toàn bộ nhân viên chính thức có thâm niên từ 6 tháng trở lên. Gói bảo hiểm bao gồm chi trả chi phí khám chữa bệnh nội trú, ngoại trú, và chăm sóc răng tại các bệnh viện liên kết. Hạn mức chi trả tối đa đối với nội trú là 60 triệu đồng/năm và ngoại trú là 10 triệu đồng/năm. Chi tiết danh mục bệnh viện bảo lãnh và quy trình yêu cầu bồi thường trực tuyến được đăng tải trên cổng thông tin nội bộ Wiki HR.",
+    "metadata": {"category": "HR Policy"}
+  },
+  {
+    "id": "doc_10",
+    "title": "Quy trình Tiếp nhận và Đào tạo Nhân sự Mới",
+    "text": "Quy trình Onboarding dành cho nhân sự mới kéo dài trong 2 tuần đầu tiên kể từ ngày nhận việc. Ngày đầu tiên, nhân sự sẽ được bộ phận HR hướng dẫn hoàn thiện thủ tục hồ sơ, cấp thẻ nhân viên và bàn giao khu vực làm việc. Bộ phận IT sẽ bàn giao laptop và hướng dẫn cấu hình tài khoản hệ thống trong buổi sáng ngày đầu tiên. Trong tuần đầu tiên, nhân sự mới bắt buộc phải hoàn thành khóa học trực tuyến về Nhận thức An toàn Thông tin và văn hóa doanh nghiệp trên cổng E-learning.",
+    "metadata": {"category": "HR Policy"}
+  },
+  {
+    "id": "doc_11",
+    "title": "Quy định Đăng ký Làm thêm giờ (OT)",
+    "text": "Công ty không khuyến khích làm thêm giờ trừ trường hợp thực sự cấp bách để hoàn thành tiến độ dự án. Việc làm thêm giờ (OT) phải được Quản lý trực tiếp phê duyệt trước khi thực hiện tối thiểu 4 tiếng thông qua hệ thống HR portal. Thời gian OT tối đa không vượt quá 4 tiếng/ngày và không quá 40 tiếng/tháng. Tiền lương làm thêm giờ được tính theo đúng Quy định của Luật Lao động (ví dụ: ngày thường tính 150%, ngày cuối tuần tính 200%, ngày lễ tết tính 300% lương cơ bản theo giờ).",
+    "metadata": {"category": "HR Policy"}
+  },
+  {
+    "id": "doc_12",
+    "title": "Hướng dẫn Kết nối Mạng Wi-Fi Văn phòng",
+    "text": "Văn phòng công ty được phủ sóng bởi 2 mạng Wi-Fi chính: Mạng 'Company-Staff' dành cho nhân viên chính thức, yêu cầu kết nối bằng tài khoản email và mật khẩu cá nhân (xác thực qua WPA2-Enterprise); Mạng 'Company-Guest' dành cho khách hàng và đối tác đến làm việc, mật khẩu truy cập được thay đổi vào mỗi sáng thứ Hai hàng tuần và được hiển thị tại quầy lễ tân văn phòng. Nhân viên không được tự ý chia sẻ mật khẩu mạng Staff cho khách vãng lai hoặc kết nối các thiết bị cá nhân chưa kiểm định an toàn vào mạng này.",
+    "metadata": {"category": "Network Security"}
+  }
+]
